@@ -1,0 +1,59 @@
+/* Variant 1 */
+.animate-cube1 {
+  transition: transform 1s ease;
+  transform: rotateX(720deg) rotateY(720deg) rotateZ(360deg);
+}
+
+/* Variant 2 */
+.animate-cube2 {
+  transition: transform 1s ease;
+  transform: rotateX(360deg) rotateY(-720deg) rotateZ(180deg);
+}
+
+/* Variant 3 */
+.animate-cube3 {
+  transition: transform 1s ease;
+  transform: rotateX(-360deg) rotateY(1080deg) rotateZ(-360deg);
+}
+
+/* Variant 4 */
+.animate-cube4 {
+  transition: transform 1s ease;
+  transform: rotateX(1080deg) rotateY(-360deg) rotateZ(540deg);
+}
+
+/* Variant 5 */
+.animate-cube5 {
+  transition: transform 1s ease;
+  transform: rotateX(-720deg) rotateY(360deg) rotateZ(-180deg);
+}
+
+/* Variant 6 */
+.animate-cube6 {
+  transition: transform 1s ease;
+  transform: rotateX(540deg) rotateY(540deg) rotateZ(720deg);
+}
+
+/* Variant 7 */
+.animate-cube7 {
+  transition: transform 1s ease;
+  transform: rotateX(-1080deg) rotateY(720deg) rotateZ(360deg);
+}
+
+/* Variant 8 */
+.animate-cube8 {
+  transition: transform 1s ease;
+  transform: rotateX(720deg) rotateY(-540deg) rotateZ(-720deg);
+}
+
+/* Variant 9 */
+.animate-cube9 {
+  transition: transform 1s ease;
+  transform: rotateX(900deg) rotateY(900deg) rotateZ(450deg);
+}
+
+/* Variant 10 */
+.animate-cube10 {
+  transition: transform 1s ease;
+  transform: rotateX(-540deg) rotateY(-720deg) rotateZ(-540deg);
+}
