@@ -44,7 +44,7 @@ function App() {
         if (faceNumber === 5) return "Chance";
         return "Community Chest";
       case 5:
-        return faceNumber <= 3 ? "Mr. Monopoly" : "Tax";
+        return faceNumber <= 3 ? "Mr. Monopoly" : "TAX";
       case 6:
         return ["Shenanigans", "Chance", "Community Chest", "Shenanigans", "Chance", "Community Chest"][faceNumber - 1];
       default:
